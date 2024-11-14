@@ -1,0 +1,133 @@
+{
+  "users": [
+    {
+      "email": "asilbekabdurashidov000@gmail.com",
+      "password": "$2a$10$EfNp5d3LLzvZlpBZIswoqumFxhXCi04bVRvPA5xLyZI6kYlaTwv3G",
+      "name": "Asil",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "id": "1098127463",
+      "title": "Security as Code",
+      "subtitle": "DevSecOps Patterns with AWS",
+      "authors": "BK Sarthak Das, Virginia Chu",
+      "genre": "Technology",
+      "publication_year": 2023,
+      "rating": 4.5,
+      "image": "https://www.dbooks.org/img/books/1098127463s.jpg",
+      "url": "https://www.dbooks.org/security-as-code-1098127463/"
+    },
+    {
+      "id": "1805112015",
+      "title": "Financing Investment in Times of High Public Debt",
+      "subtitle": "2023 European Public Investment Outlook",
+      "authors": "Floriana Cerniglia, Francesco Saraceno, Andrew Watt",
+      "genre": "Finance",
+      "publication_year": 2023,
+      "rating": 4,
+      "image": "https://www.dbooks.org/img/books/1805112015s.jpg",
+      "url": "https://www.dbooks.org/financing-investment-in-times-of-high-public-debt-1805112015/"
+    },
+    {
+      "id": "164200233X",
+      "title": "ASP.NET Core 6 Succinctly",
+      "subtitle": "",
+      "authors": "Dirk Strauss",
+      "genre": "Programming",
+      "publication_year": 2022,
+      "rating": 4.3,
+      "image": "https://www.dbooks.org/img/books/164200233Xs.jpg",
+      "url": "https://www.dbooks.org/aspnet-core-6-succinctly-164200233x/"
+    },
+    {
+      "id": "199013209X",
+      "title": "Engineering Systems Dynamics, Modelling, Simulation, and Design",
+      "subtitle": "Lagrangian and Bond Graph Methods",
+      "authors": "Mehrzad Tabatabaian",
+      "genre": "Engineering",
+      "publication_year": 2023,
+      "rating": 4.6,
+      "image": "https://www.dbooks.org/img/books/199013209Xs.jpg",
+      "url": "https://www.dbooks.org/engineering-systems-dynamics-modelling-simulation-and-design-199013209x/"
+    },
+    {
+      "id": "5709901124",
+      "title": "Build a Raspberry Pi Media Player",
+      "subtitle": "Power up your TV and music system",
+      "authors": "PJ Evans",
+      "genre": "DIY",
+      "publication_year": 2021,
+      "rating": 4.2,
+      "image": "https://www.dbooks.org/img/books/5709901124s.jpg",
+      "url": "https://www.dbooks.org/build-a-raspberry-pi-media-player-5709901124/"
+    },
+    {
+      "id": "191204742X",
+      "title": "The Official Raspberry Pi Handbook 2023",
+      "subtitle": "",
+      "authors": "David Crookes, PJ Evans, Rosie Hattersley, Phil King, Nicola King, KG Orphanides, Nik Rawlinson, Mark Vanstone",
+      "genre": "Technology",
+      "publication_year": 2023,
+      "rating": 4.7,
+      "image": "https://www.dbooks.org/img/books/191204742Xs.jpg",
+      "url": "https://www.dbooks.org/the-official-raspberry-pi-handbook-2023-191204742x/"
+    },
+    {
+      "id": "5685804586",
+      "title": "Pay for Play",
+      "subtitle": "How the Music Industry Works, Where the Money Goes, and Why",
+      "authors": "Larry Wayte",
+      "genre": "Music Industry",
+      "publication_year": 2021,
+      "rating": 4.1,
+      "image": "https://www.dbooks.org/img/books/5685804586s.jpg",
+      "url": "https://www.dbooks.org/pay-for-play-5685804586/"
+    },
+    {
+      "id": "1642002275",
+      "title": "Azure Bot Service Succinctly",
+      "subtitle": "",
+      "authors": "Ed Freitas",
+      "genre": "Programming",
+      "publication_year": 2022,
+      "rating": 4.4,
+      "image": "https://www.dbooks.org/img/books/1642002275s.jpg",
+      "url": "https://www.dbooks.org/azure-bot-service-succinctly-1642002275/"
+    },
+    {
+      "id": "1607826593",
+      "title": "Introductory Algebra",
+      "subtitle": "",
+      "authors": "Anne Gloag, Andrew Gloag, Melissa Kramer",
+      "genre": "Mathematics",
+      "publication_year": 2019,
+      "rating": 4,
+      "image": "https://www.dbooks.org/img/books/1607826593s.jpg",
+      "url": "https://www.dbooks.org/introductory-algebra-1607826593/"
+    },
+    {
+      "id": "1098111389",
+      "title": "Managing Cloud Native Data on Kubernetes",
+      "subtitle": "Architecting Cloud Native Data Services Using Open Source Technology",
+      "authors": "Jeff Carpenter, Patrick McFadin",
+      "genre": "Technology",
+      "publication_year": 2023,
+      "rating": 4.8,
+      "image": "https://www.dbooks.org/img/books/1098111389s.jpg",
+      "url": "https://www.dbooks.org/managing-cloud-native-data-on-kubernetes-1098111389/"
+    },
+    {
+      "id": "111954601X",
+      "title": "Blockchain For Dummies",
+      "subtitle": "",
+      "authors": "Manav Gupta",
+      "genre": "Technology",
+      "publication_year": 2020,
+      "rating": 4.2,
+      "image": "https://www.dbooks.org/img/books/111954601Xs.jpg",
+      "url": "https://www.dbooks.org/blockchain-for-dummies-111954601x/"
+    }
+  ]
+}
